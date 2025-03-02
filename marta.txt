@@ -1,0 +1,18 @@
+# Nmap 7.95 scan initiated Sat Mar  1 21:52:49 2025 as: nmap -F -v -O -oN marta.txt 192.168.1.42
+Nmap scan report for 192.168.1.42
+Host is up (0.00028s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT     STATE SERVICE
+5000/tcp open  upnp
+Device type: general purpose
+Running: Apple macOS 11.X|12.X
+OS CPE: cpe:/o:apple:mac_os_x:11 cpe:/o:apple:mac_os_x:12
+OS details: Apple macOS 11 (Big Sur) - 12 (Monterey) (Darwin 20.5.0 - 21.6.0), Apple macOS 12 (Monterey) (Darwin 21.1.0 - 21.6.0)
+Uptime guess: 0.000 days (since Sat Mar  1 21:53:02 2025)
+Network Distance: 0 hops
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+Read data files from: /opt/homebrew/bin/../share/nmap
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Mar  1 21:53:03 2025 -- 1 IP address (1 host up) scanned in 14.45 seconds
